@@ -1,4 +1,4 @@
-
+// teste
 let game = {
 
     lockMode: false,
